@@ -1,0 +1,20 @@
+{
+  "id": "F001-example",
+  "title": "Example cross-platform settings screen",
+  "workspace_root": "../..",
+  "product_context": "inputs/idea.md",
+  "repositories": [
+    {
+      "name": "app",
+      "path": "../../repos/app",
+      "verify": ""
+    },
+    {
+      "name": "backend",
+      "path": "../../repos/backend",
+      "verify": ""
+    }
+  ],
+  "max_fix_iterations": 2,
+  "state": "NEW"
+}
